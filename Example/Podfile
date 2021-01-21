@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'WYDFoundation_Example' do
+  pod 'WYDFoundation', :path => '../'
+
+  target 'WYDFoundation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
