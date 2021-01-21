@@ -1,0 +1,22 @@
+{
+  "name": "WYDFoundation",
+  "version": "0.0.1",
+  "summary": "测试",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hongchenqiliang/WYDFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangyudong": "ext.wangyudong@jd.com"
+  },
+  "source": {
+    "git": "https://github.com/hongchenqiliang/WYDFoundation.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WYDFoundation/Classes/**/*"
+}

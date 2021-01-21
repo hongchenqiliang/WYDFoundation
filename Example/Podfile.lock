@@ -1,0 +1,16 @@
+PODS:
+  - WYDFoundation (0.0.1)
+
+DEPENDENCIES:
+  - WYDFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  WYDFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WYDFoundation: 677189e4e774e76a8425598af28b174aefb42b8c
+
+PODFILE CHECKSUM: 6431350cda42d4a652d9e5748b900c76e1441ceb
+
+COCOAPODS: 1.10.0.rc.1

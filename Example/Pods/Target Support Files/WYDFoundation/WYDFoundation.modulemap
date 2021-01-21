@@ -1,0 +1,6 @@
+framework module WYDFoundation {
+  umbrella header "WYDFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

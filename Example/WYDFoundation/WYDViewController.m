@@ -7,7 +7,7 @@
 //
 
 #import "WYDViewController.h"
-
+#import <WYDFoundation/JRXZDataSafeTools.h>
 @interface WYDViewController ()
 
 @end
@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    NSString *s = [JRXZDataSafeTools safeObj:@"sss"];
 }
 
 - (void)didReceiveMemoryWarning
